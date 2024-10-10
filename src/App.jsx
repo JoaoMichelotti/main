@@ -3,8 +3,15 @@ import React from "react"
 export default function Pagina() {
 
     return <main>
+      <div>
+
 
       <img src="./myself.jpg" alt="foto" width="128" />
+
+      </div>
+      
+<div>
+  
 
       <div> 
 
@@ -66,6 +73,6 @@ export default function Pagina() {
 
 
 </div>  
-
+</div>
     </main>
 }
